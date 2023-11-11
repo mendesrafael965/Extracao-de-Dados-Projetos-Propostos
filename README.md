@@ -1,11 +1,12 @@
 # Extracao de Dados Projetos Propostos pelo Vereadores de São Paulo
 
 ## Introdução 
-Observatório Social do Brasil em São Paulo (OSB-SP) é uma associação civil sem fins lucrativos, dedicada à promoção da transparência, educação fiscal e cidadania ativa. E dentre as atividades realizadas por essa instituição está o monitoramento dos projetos propostos.
-Atualmente essa tarefa e realizada pelos vonlutários que acessam a pagina da <p><a https://splegisconsulta.saopaulo.sp.leg.br/Câmara Municipal de São Paulo</a>, coletam as informações uma a uma e em seguinda inserem essas informações planilhas. O presente projeto tem como objetivo realizar a extração e transformações dos dados dos projetos propostos pelos vereadores da Câmara Municipal de São Paulo. E também gerar planilhas com estes dados.
+<p>Observatório Social do Brasil em São Paulo (OSB-SP) é uma associação civil sem fins lucrativos, dedicada à promoção da transparência, educação fiscal e cidadania ativa. E dentre as atividades realizadas por essa instituição está o monitoramento dos projetos propostos.
+Atualmente essa tarefa e realizada pelos vonlutários que acessam a pagina da <p><a https://splegisconsulta.saopaulo.sp.leg.br/Câmara Municipal de São Paulo</a>, coletam as informações uma a uma e em seguinda inserem essas informações planilhas.</p> 
+<p>O presente projeto tem como objetivo realizar a extração e transformações dos dados dos projetos propostos pelos vereadores da Câmara Municipal de São Paulo. E também gerar planilhas com estes dados.</p>
 
 ## Motivação
-O coleta de dados realizada de forma manual é muito demorada e suscetível a erros.
+<p>O coleta de dados realizada de forma manual é muito demorada e suscetível a erros.</p>
 
 ## Resultados
 
