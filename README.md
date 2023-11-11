@@ -6,6 +6,8 @@ Atualmente essa tarefa e realizada pelos vonlutários que acessam a pagina da <a
 
 <p>O presente projeto tem como objetivo realizar a extração e transformações dos dados dos projetos propostos pelos vereadores da Câmara Municipal de São Paulo e também gerar planilhas com estes dados. Isso com intuito de reduzir o tempo de execução bem como a chance de erro na realização desta tarefa.</p>
 
+## Diagrama
+
 ## Resultados
 
 
