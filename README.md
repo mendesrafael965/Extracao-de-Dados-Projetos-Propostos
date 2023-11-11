@@ -1,7 +1,4 @@
-# Extracao de Dados Projetos Propostos
-
-<p><a href="https://mendesrafael965.github.io/Extracao-de-Dados-Projetos-Propostos/">Link</a> para a página do projeto </p>
-<p><a https://splegisconsulta.saopaulo.sp.leg.br/Câmara Municipal de São Paulo</a>
+# Extracao de Dados Projetos Propostos pelo Vereadores de São Paulo
 
 ## Introdução 
 Observatório Social do Brasil em São Paulo (OSB-SP) é uma associação civil sem fins lucrativos, dedicada à promoção da transparência, educação fiscal e cidadania ativa. E dentre as atividades realizadas por essa instituição está o monitoramento dos projetos propostos.
