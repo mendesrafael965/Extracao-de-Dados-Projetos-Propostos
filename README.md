@@ -1,4 +1,4 @@
-# Extracao de Dados Projetos Propostos pelo Vereadores de São Paulo
+# Extracão de Dados dos Projetos Propostos pelos Vereadores de São Paulo
 
 ## Introdução 
 <p>Observatório Social do Brasil em São Paulo (OSB-SP) é uma associação civil sem fins lucrativos, dedicada à promoção da transparência, educação fiscal e cidadania ativa. E dentre as atividades realizadas por essa instituição está o monitoramento dos projetos propostos pelos vereadores de São Paulo.
