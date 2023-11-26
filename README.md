@@ -6,6 +6,9 @@ Atualmente essa tarefa e realizada pelos vonlutários que acessam a pagina da <a
 
 <p>O presente projeto tem como objetivo realizar a extração e transformações dos dados dos projetos propostos pelos vereadores da Câmara Municipal de São Paulo e também gerar planilhas com estes dados. Isso com intuito de reduzir o tempo de execução bem como a chance de erro na realização desta tarefa.</p>
 
+
+<a href="[https://splegisconsulta.saopaulo.sp.leg.br/](https://splegisws.saopaulo.sp.leg.br/ws/ws2.asmx)">Lista de serviços</a>
+
 ## Diagrama
 <img src="assets/imgs/Diagrama ETL.png"/>
 ## Resultados
