@@ -1,4 +1,4 @@
-# Extracão de Dados dos Projetos Propostos pelos Vereadores de São Paulo
+# Extracão de Dados dos Projetos Propostos por Vereadores de São Paulo
 
 <h2>Introdução</h2>
 <p align="justify">
