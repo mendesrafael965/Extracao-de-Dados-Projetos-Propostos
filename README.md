@@ -29,6 +29,3 @@ Para o projeto em questão foram utilizados os seguintes endpoints:
 </ul>
   A lista completa com todos os endpoints disponível pode ser acessada <a href="https://splegisws.saopaulo.sp.leg.br/ws/ws2.asmx">aqui</a>.
 </p>
-
-<h2>Resultados</h2>
-
